@@ -49,6 +49,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/sunnyajit/part3Ltcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/sunnyajit/part3Ltcode/tree/master/1511-count-number-of-teams) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunnyajit/part3Ltcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -225,6 +226,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -287,6 +289,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting
@@ -422,6 +425,7 @@
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/sunnyajit/part3Ltcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
@@ -445,6 +449,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sunnyajit/part3Ltcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
