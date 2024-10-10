@@ -22,6 +22,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sunnyajit/part3Ltcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
@@ -216,6 +217,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 ## Rolling Hash
 |  |
@@ -269,6 +271,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -312,6 +315,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 ## Game Theory
 |  |
@@ -329,4 +333,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
