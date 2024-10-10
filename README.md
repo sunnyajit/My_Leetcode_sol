@@ -16,6 +16,7 @@
 | [0260-single-number-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0330-patching-array) |
+| [0349-intersection-of-two-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyajit/part3Ltcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
@@ -218,6 +219,7 @@
 | [0234-palindrome-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0633-sum-of-square-numbers) |
@@ -256,6 +258,7 @@
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0264-ugly-number-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/sunnyajit/part3Ltcode/tree/master/0432-all-oone-data-structure) |
@@ -312,6 +315,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyajit/part3Ltcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
@@ -412,6 +416,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sunnyajit/part3Ltcode/tree/master/0713-subarray-product-less-than-k) |
