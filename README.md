@@ -131,6 +131,7 @@
 | [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0273-integer-to-english-words) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0001-two-sum) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0409-longest-palindrome) |
