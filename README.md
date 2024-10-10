@@ -40,6 +40,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sunnyajit/part3Ltcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -219,6 +220,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sunnyajit/part3Ltcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/sunnyajit/part3Ltcode/tree/master/2502-sort-the-people) |
@@ -284,6 +286,7 @@
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Segment Tree
 |  |
