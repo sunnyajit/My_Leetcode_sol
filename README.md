@@ -39,6 +39,7 @@
 | [1720-crawler-log-folder](https://github.com/sunnyajit/part3Ltcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1803-average-waiting-time](https://github.com/sunnyajit/part3Ltcode/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
@@ -140,6 +141,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
+| [1803-average-waiting-time](https://github.com/sunnyajit/part3Ltcode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sunnyajit/part3Ltcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
