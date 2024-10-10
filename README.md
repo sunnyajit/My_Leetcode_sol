@@ -13,6 +13,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
 | ------- |
@@ -113,4 +116,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
+## Trie
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
