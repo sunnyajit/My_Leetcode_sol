@@ -78,6 +78,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sunnyajit/part3Ltcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sunnyajit/part3Ltcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
@@ -211,6 +212,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sunnyajit/part3Ltcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sunnyajit/part3Ltcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sunnyajit/part3Ltcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/sunnyajit/part3Ltcode/tree/master/2645-pass-the-pillow) |
@@ -356,6 +358,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sunnyajit/part3Ltcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
