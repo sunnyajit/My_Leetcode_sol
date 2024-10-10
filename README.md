@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0260-single-number-iii) |
@@ -126,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
@@ -529,6 +531,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
@@ -633,6 +636,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [1331-path-with-maximum-gold](https://github.com/sunnyajit/part3Ltcode/tree/master/1331-path-with-maximum-gold) |
