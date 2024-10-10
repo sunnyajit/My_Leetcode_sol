@@ -126,6 +126,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/sunnyajit/part3Ltcode/tree/master/1044-find-common-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sunnyajit/part3Ltcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyajit/part3Ltcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/sunnyajit/part3Ltcode/tree/master/1720-crawler-log-folder) |
@@ -247,6 +248,7 @@
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/sunnyajit/part3Ltcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sunnyajit/part3Ltcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -287,6 +289,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sunnyajit/part3Ltcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -343,6 +346,7 @@
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sunnyajit/part3Ltcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunnyajit/part3Ltcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
