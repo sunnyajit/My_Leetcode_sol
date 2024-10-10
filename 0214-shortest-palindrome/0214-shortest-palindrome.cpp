@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public: // code written by sunny
     string shortestPalindrome(string s) {
     string rev_s = s;
