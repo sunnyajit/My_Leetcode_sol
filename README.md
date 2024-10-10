@@ -59,6 +59,7 @@
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -145,6 +146,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -236,6 +238,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sunnyajit/part3Ltcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/sunnyajit/part3Ltcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -550,6 +553,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Topological Sort
 |  |
 | ------- |
