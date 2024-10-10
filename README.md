@@ -19,6 +19,7 @@
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
+| [1196-filling-bookcase-shelves](https://github.com/sunnyajit/part3Ltcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
@@ -233,6 +234,7 @@
 | [0264-ugly-number-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/sunnyajit/part3Ltcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/sunnyajit/part3Ltcode/tree/master/0664-strange-printer) |
+| [1196-filling-bookcase-shelves](https://github.com/sunnyajit/part3Ltcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
