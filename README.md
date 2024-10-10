@@ -21,6 +21,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/sunnyajit/part3Ltcode/tree/master/1196-filling-bookcase-shelves) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
@@ -143,6 +144,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/sunnyajit/part3Ltcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -270,6 +272,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -346,6 +349,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
@@ -353,6 +357,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Graph
