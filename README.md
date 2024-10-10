@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0650-2-keys-keyboard](https://github.com/sunnyajit/part3Ltcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/sunnyajit/part3Ltcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
@@ -221,6 +222,7 @@
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0650-2-keys-keyboard](https://github.com/sunnyajit/part3Ltcode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
