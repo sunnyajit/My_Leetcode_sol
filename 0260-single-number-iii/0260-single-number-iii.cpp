@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public: // code written by sunny
     vector<int> singleNumber(vector<int>& nums) {
         long long xor_r = 0;
