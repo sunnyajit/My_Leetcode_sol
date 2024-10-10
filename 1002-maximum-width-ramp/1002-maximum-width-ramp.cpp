@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public: // code written by sunny
     int maxWidthRamp(vector<int>& nums) {
         int n = nums.size();
