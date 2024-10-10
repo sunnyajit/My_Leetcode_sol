@@ -24,6 +24,7 @@
 | [0525-contiguous-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/sunnyajit/part3Ltcode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -270,6 +271,7 @@
 | [0523-continuous-subarray-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
 | [0807-custom-sort-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0807-custom-sort-string) |
@@ -327,6 +329,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyajit/part3Ltcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
+| [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
 | [0807-custom-sort-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0807-custom-sort-string) |
@@ -557,6 +560,7 @@
 | [0260-single-number-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/sunnyajit/part3Ltcode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/sunnyajit/part3Ltcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
