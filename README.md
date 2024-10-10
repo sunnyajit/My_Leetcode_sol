@@ -22,6 +22,7 @@
 | [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -138,6 +139,7 @@
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/sunnyajit/part3Ltcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sunnyajit/part3Ltcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -226,6 +228,7 @@
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sunnyajit/part3Ltcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
