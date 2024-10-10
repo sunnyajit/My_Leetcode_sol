@@ -336,6 +336,7 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sunnyajit/part3Ltcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
 |  |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sunnyajit/part3Ltcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
 ## Union Find
 |  |
@@ -361,6 +363,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sunnyajit/part3Ltcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Game Theory
 |  |
 | ------- |
