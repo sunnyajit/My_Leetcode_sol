@@ -557,6 +557,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/sunnyajit/part3Ltcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/sunnyajit/part3Ltcode/tree/master/0476-number-complement) |
@@ -717,6 +718,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sunnyajit/part3Ltcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Merge Sort
