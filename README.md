@@ -127,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/sunnyajit/part3Ltcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
