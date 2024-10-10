@@ -110,6 +110,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sunnyajit/part3Ltcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1666-make-the-string-great](https://github.com/sunnyajit/part3Ltcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sunnyajit/part3Ltcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sunnyajit/part3Ltcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -149,6 +150,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/sunnyajit/part3Ltcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyajit/part3Ltcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1666-make-the-string-great](https://github.com/sunnyajit/part3Ltcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sunnyajit/part3Ltcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
