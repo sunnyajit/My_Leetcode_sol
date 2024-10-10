@@ -50,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/sunnyajit/part3Ltcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -75,5 +76,14 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/sunnyajit/part3Ltcode/tree/master/0432-all-oone-data-structure) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sunnyajit/part3Ltcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/sunnyajit/part3Ltcode/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/sunnyajit/part3Ltcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
