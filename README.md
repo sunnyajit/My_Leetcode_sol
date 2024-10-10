@@ -9,6 +9,7 @@
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0330-patching-array) |
+| [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/sunnyajit/part3Ltcode/tree/master/0890-lemonade-change) |
@@ -218,6 +220,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
@@ -466,6 +469,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0264-ugly-number-ii) |
+| [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
