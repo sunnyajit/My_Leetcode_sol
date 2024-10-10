@@ -12,6 +12,7 @@
 | [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/sunnyajit/part3Ltcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0330-patching-array) |
@@ -341,6 +342,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sunnyajit/part3Ltcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/sunnyajit/part3Ltcode/tree/master/0713-subarray-product-less-than-k) |
