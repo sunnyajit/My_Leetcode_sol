@@ -34,6 +34,7 @@
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sunnyajit/part3Ltcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0386-lexicographical-numbers) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
@@ -242,6 +244,7 @@
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
