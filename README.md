@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
@@ -138,4 +139,16 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0386-lexicographical-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
