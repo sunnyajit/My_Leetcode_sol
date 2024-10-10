@@ -93,6 +93,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sunnyajit/part3Ltcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/sunnyajit/part3Ltcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sunnyajit/part3Ltcode/tree/master/2727-number-of-senior-citizens) |
@@ -277,6 +278,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,6 +363,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Graph
 |  |
 | ------- |
