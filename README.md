@@ -12,6 +12,7 @@
 | [0859-design-circular-deque](https://github.com/sunnyajit/part3Ltcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
+| [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
+| [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/sunnyajit/part3Ltcode/tree/master/0664-strange-printer) |
+| [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
@@ -218,6 +221,7 @@
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -287,4 +291,8 @@
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
