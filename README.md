@@ -19,6 +19,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyajit/part3Ltcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0648-replace-words) |
@@ -257,6 +258,7 @@
 | [0409-longest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/sunnyajit/part3Ltcode/tree/master/0432-all-oone-data-structure) |
 | [0523-continuous-subarray-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/sunnyajit/part3Ltcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1016-subarray-sums-divisible-by-k) |
