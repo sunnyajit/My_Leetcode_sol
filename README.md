@@ -33,6 +33,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sunnyajit/part3Ltcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/sunnyajit/part3Ltcode/tree/master/1511-count-number-of-teams) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sunnyajit/part3Ltcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
 |  |
@@ -266,6 +268,7 @@
 | ------- |
 | [0859-design-circular-deque](https://github.com/sunnyajit/part3Ltcode/tree/master/0859-design-circular-deque) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
@@ -287,6 +290,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Trie
 |  |
 | ------- |
@@ -443,6 +447,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
@@ -520,4 +525,8 @@
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sunnyajit/part3Ltcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sunnyajit/part3Ltcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
