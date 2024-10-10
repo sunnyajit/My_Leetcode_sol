@@ -37,6 +37,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
 |  |
 | ------- |
