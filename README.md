@@ -89,6 +89,7 @@
 | [2727-number-of-senior-citizens](https://github.com/sunnyajit/part3Ltcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -368,6 +369,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/sunnyajit/part3Ltcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sunnyajit/part3Ltcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
@@ -515,6 +517,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sunnyajit/part3Ltcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -587,6 +590,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sunnyajit/part3Ltcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -595,6 +599,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sunnyajit/part3Ltcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
