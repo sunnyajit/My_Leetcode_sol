@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
+| [0260-single-number-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0260-single-number-iii) |
 | [0330-patching-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
@@ -439,6 +440,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0260-single-number-iii) |
 | [0476-number-complement](https://github.com/sunnyajit/part3Ltcode/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
