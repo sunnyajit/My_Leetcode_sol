@@ -90,6 +90,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -179,6 +180,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -485,6 +489,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sunnyajit/part3Ltcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Brainteaser
 |  |
 | ------- |
@@ -520,6 +525,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sunnyajit/part3Ltcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
