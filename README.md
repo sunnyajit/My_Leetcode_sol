@@ -6,6 +6,7 @@
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
 | ------- |
@@ -44,8 +46,13 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
