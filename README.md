@@ -29,6 +29,7 @@
 | [1293-three-consecutive-odds](https://github.com/sunnyajit/part3Ltcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sunnyajit/part3Ltcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -179,6 +180,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -198,6 +200,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
@@ -226,6 +229,7 @@
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -354,6 +358,7 @@
 | [0650-2-keys-keyboard](https://github.com/sunnyajit/part3Ltcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sunnyajit/part3Ltcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/sunnyajit/part3Ltcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
