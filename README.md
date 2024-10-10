@@ -69,6 +69,7 @@
 | [1803-average-waiting-time](https://github.com/sunnyajit/part3Ltcode/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -452,6 +453,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/sunnyajit/part3Ltcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/sunnyajit/part3Ltcode/tree/master/2645-pass-the-pillow) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -480,6 +482,7 @@
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnyajit/part3Ltcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sunnyajit/part3Ltcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sunnyajit/part3Ltcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
@@ -589,6 +592,7 @@
 | [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/sunnyajit/part3Ltcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Binary Search Tree
 |  |
@@ -648,5 +652,10 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
