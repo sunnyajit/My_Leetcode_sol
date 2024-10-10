@@ -9,6 +9,7 @@
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/sunnyajit/part3Ltcode/tree/master/0859-design-circular-deque) |
+| [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -71,6 +72,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/sunnyajit/part3Ltcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
+| [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sunnyajit/part3Ltcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
