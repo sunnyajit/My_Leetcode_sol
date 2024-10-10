@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -152,6 +153,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0633-sum-of-square-numbers) |
@@ -222,6 +224,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
