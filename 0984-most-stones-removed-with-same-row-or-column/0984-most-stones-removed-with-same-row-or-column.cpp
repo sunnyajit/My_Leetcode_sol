@@ -59,5 +59,3 @@ public: // code written by sunny
         return removable_stones;
     }
 };
-
- 
