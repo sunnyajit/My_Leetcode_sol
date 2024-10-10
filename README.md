@@ -113,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0214-shortest-palindrome) |
@@ -387,6 +388,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0264-ugly-number-ii) |
@@ -581,6 +583,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/sunnyajit/part3Ltcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
