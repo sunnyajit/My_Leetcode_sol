@@ -30,6 +30,7 @@
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/sunnyajit/part3Ltcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -205,6 +206,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/sunnyajit/part3Ltcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/sunnyajit/part3Ltcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sunnyajit/part3Ltcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -283,6 +285,7 @@
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/sunnyajit/part3Ltcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1137-height-checker](https://github.com/sunnyajit/part3Ltcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/sunnyajit/part3Ltcode/tree/master/0859-design-circular-deque) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/sunnyajit/part3Ltcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
