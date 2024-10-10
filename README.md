@@ -31,6 +31,7 @@
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1044-find-common-characters](https://github.com/sunnyajit/part3Ltcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/sunnyajit/part3Ltcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/sunnyajit/part3Ltcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1196-filling-bookcase-shelves](https://github.com/sunnyajit/part3Ltcode/tree/master/1196-filling-bookcase-shelves) |
@@ -119,6 +120,7 @@
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sunnyajit/part3Ltcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/sunnyajit/part3Ltcode/tree/master/1044-find-common-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sunnyajit/part3Ltcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/sunnyajit/part3Ltcode/tree/master/1720-crawler-log-folder) |
@@ -207,6 +209,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sunnyajit/part3Ltcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1044-find-common-characters](https://github.com/sunnyajit/part3Ltcode/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sunnyajit/part3Ltcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/1256-rank-transform-of-an-array) |
