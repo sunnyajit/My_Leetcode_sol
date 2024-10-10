@@ -429,6 +429,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -529,6 +530,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sunnyajit/part3Ltcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
@@ -544,6 +546,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sunnyajit/part3Ltcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Graph
 |  |
 | ------- |
