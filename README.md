@@ -125,6 +125,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sunnyajit/part3Ltcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
