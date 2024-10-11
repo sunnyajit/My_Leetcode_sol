@@ -36,6 +36,7 @@
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
 | [0753-open-the-lock](https://github.com/sunnyajit/part3Ltcode/tree/master/0753-open-the-lock) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/sunnyajit/part3Ltcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
@@ -266,6 +267,7 @@
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/sunnyajit/part3Ltcode/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -377,6 +379,7 @@
 | [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
@@ -486,6 +489,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [1321-get-equal-substrings-within-budget](https://github.com/sunnyajit/part3Ltcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sunnyajit/part3Ltcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -743,6 +747,7 @@
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sunnyajit/part3Ltcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
