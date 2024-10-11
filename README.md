@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/sunnyajit/part3Ltcode/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/sunnyajit/part3Ltcode/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/sunnyajit/part3Ltcode/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/sunnyajit/part3Ltcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/sunnyajit/part3Ltcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
@@ -478,6 +481,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/sunnyajit/part3Ltcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -596,6 +600,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sunnyajit/part3Ltcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/sunnyajit/part3Ltcode/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
