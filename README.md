@@ -118,6 +118,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -139,6 +140,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/sunnyajit/part3Ltcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
 ## String
@@ -154,6 +156,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0564-find-the-closest-palindrome) |
@@ -199,6 +202,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyajit/part3Ltcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
