@@ -514,6 +514,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/sunnyajit/part3Ltcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sunnyajit/part3Ltcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sunnyajit/part3Ltcode/tree/master/0463-island-perimeter) |
@@ -674,6 +675,7 @@
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/sunnyajit/part3Ltcode/tree/master/0310-minimum-height-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/sunnyajit/part3Ltcode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
@@ -719,6 +721,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/sunnyajit/part3Ltcode/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/sunnyajit/part3Ltcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sunnyajit/part3Ltcode/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/0623-add-one-row-to-tree) |
@@ -793,6 +796,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/sunnyajit/part3Ltcode/tree/master/0310-minimum-height-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sunnyajit/part3Ltcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sunnyajit/part3Ltcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Monotonic Queue
