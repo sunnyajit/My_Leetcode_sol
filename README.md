@@ -41,6 +41,7 @@
 | [0859-design-circular-deque](https://github.com/sunnyajit/part3Ltcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sunnyajit/part3Ltcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sunnyajit/part3Ltcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/sunnyajit/part3Ltcode/tree/master/0917-boats-to-save-people) |
@@ -238,6 +239,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0678-valid-parenthesis-string) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sunnyajit/part3Ltcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sunnyajit/part3Ltcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sunnyajit/part3Ltcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -383,6 +385,7 @@
 | [0807-custom-sort-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sunnyajit/part3Ltcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0917-boats-to-save-people](https://github.com/sunnyajit/part3Ltcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -748,6 +751,7 @@
 | [0506-relative-ranks](https://github.com/sunnyajit/part3Ltcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/sunnyajit/part3Ltcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
