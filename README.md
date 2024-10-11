@@ -199,6 +199,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2444-longest-ideal-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2444-longest-ideal-subsequence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/sunnyajit/part3Ltcode/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -317,6 +318,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sunnyajit/part3Ltcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sunnyajit/part3Ltcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2444-longest-ideal-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2444-longest-ideal-subsequence) |
 | [2502-sort-the-people](https://github.com/sunnyajit/part3Ltcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -506,6 +508,7 @@
 | [1511-count-number-of-teams](https://github.com/sunnyajit/part3Ltcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2444-longest-ideal-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2444-longest-ideal-subsequence) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
