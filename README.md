@@ -43,6 +43,7 @@
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/sunnyajit/part3Ltcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sunnyajit/part3Ltcode/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/0891-score-after-flipping-matrix) |
 | [0906-walking-robot-simulation](https://github.com/sunnyajit/part3Ltcode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/sunnyajit/part3Ltcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
@@ -242,6 +243,7 @@
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/sunnyajit/part3Ltcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sunnyajit/part3Ltcode/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/sunnyajit/part3Ltcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sunnyajit/part3Ltcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -643,6 +645,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/sunnyajit/part3Ltcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
+| [0891-score-after-flipping-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/0891-score-after-flipping-matrix) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sunnyajit/part3Ltcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/sunnyajit/part3Ltcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sunnyajit/part3Ltcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -672,6 +675,7 @@
 | [0200-number-of-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sunnyajit/part3Ltcode/tree/master/0463-island-perimeter) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
+| [0891-score-after-flipping-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1224-minimum-falling-path-sum-ii) |
