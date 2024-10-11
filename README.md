@@ -24,6 +24,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyajit/part3Ltcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/sunnyajit/part3Ltcode/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/sunnyajit/part3Ltcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
@@ -369,6 +370,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyajit/part3Ltcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/sunnyajit/part3Ltcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -736,6 +738,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/sunnyajit/part3Ltcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sunnyajit/part3Ltcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/sunnyajit/part3Ltcode/tree/master/1325-path-with-maximum-probability) |
