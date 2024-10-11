@@ -34,6 +34,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sunnyajit/part3Ltcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/sunnyajit/part3Ltcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0731-my-calendar-ii) |
+| [0753-open-the-lock](https://github.com/sunnyajit/part3Ltcode/tree/master/0753-open-the-lock) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/sunnyajit/part3Ltcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
@@ -175,6 +176,7 @@
 | [0664-strange-printer](https://github.com/sunnyajit/part3Ltcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
+| [0753-open-the-lock](https://github.com/sunnyajit/part3Ltcode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sunnyajit/part3Ltcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sunnyajit/part3Ltcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -290,6 +292,7 @@
 | [0645-set-mismatch](https://github.com/sunnyajit/part3Ltcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/sunnyajit/part3Ltcode/tree/master/0726-number-of-atoms) |
+| [0753-open-the-lock](https://github.com/sunnyajit/part3Ltcode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0807-custom-sort-string) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
@@ -719,6 +722,7 @@
 | [0404-sum-of-left-leaves](https://github.com/sunnyajit/part3Ltcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sunnyajit/part3Ltcode/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/0623-add-one-row-to-tree) |
+| [0753-open-the-lock](https://github.com/sunnyajit/part3Ltcode/tree/master/0753-open-the-lock) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sunnyajit/part3Ltcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
