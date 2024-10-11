@@ -169,6 +169,7 @@
 | [0344-reverse-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0409-longest-palindrome) |
+| [0514-freedom-trail](https://github.com/sunnyajit/part3Ltcode/tree/master/0514-freedom-trail) |
 | [0539-minimum-time-difference](https://github.com/sunnyajit/part3Ltcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sunnyajit/part3Ltcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0567-permutation-in-string) |
@@ -496,6 +497,7 @@
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0264-ugly-number-ii) |
+| [0514-freedom-trail](https://github.com/sunnyajit/part3Ltcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0552-student-attendance-record-ii) |
 | [0650-2-keys-keyboard](https://github.com/sunnyajit/part3Ltcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/sunnyajit/part3Ltcode/tree/master/0664-strange-printer) |
@@ -524,6 +526,7 @@
 | [0386-lexicographical-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sunnyajit/part3Ltcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sunnyajit/part3Ltcode/tree/master/0463-island-perimeter) |
+| [0514-freedom-trail](https://github.com/sunnyajit/part3Ltcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/0623-add-one-row-to-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sunnyajit/part3Ltcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -733,6 +736,7 @@
 | [0310-minimum-height-trees](https://github.com/sunnyajit/part3Ltcode/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/sunnyajit/part3Ltcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sunnyajit/part3Ltcode/tree/master/0463-island-perimeter) |
+| [0514-freedom-trail](https://github.com/sunnyajit/part3Ltcode/tree/master/0514-freedom-trail) |
 | [0623-add-one-row-to-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/0623-add-one-row-to-tree) |
 | [0753-open-the-lock](https://github.com/sunnyajit/part3Ltcode/tree/master/0753-open-the-lock) |
 | [0999-regions-cut-by-slashes](https://github.com/sunnyajit/part3Ltcode/tree/master/0999-regions-cut-by-slashes) |
