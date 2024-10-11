@@ -92,6 +92,7 @@
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sunnyajit/part3Ltcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2103-find-all-groups-of-farmland](https://github.com/sunnyajit/part3Ltcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
@@ -528,6 +529,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sunnyajit/part3Ltcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
+| [2103-find-all-groups-of-farmland](https://github.com/sunnyajit/part3Ltcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sunnyajit/part3Ltcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/sunnyajit/part3Ltcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Rolling Hash
@@ -621,6 +623,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sunnyajit/part3Ltcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sunnyajit/part3Ltcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2103-find-all-groups-of-farmland](https://github.com/sunnyajit/part3Ltcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sunnyajit/part3Ltcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -720,6 +723,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sunnyajit/part3Ltcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sunnyajit/part3Ltcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sunnyajit/part3Ltcode/tree/master/2035-count-sub-islands) |
+| [2103-find-all-groups-of-farmland](https://github.com/sunnyajit/part3Ltcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sunnyajit/part3Ltcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Game Theory
