@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sunnyajit/part3Ltcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/sunnyajit/part3Ltcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/0078-subsets) |
@@ -116,6 +117,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunnyajit/part3Ltcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
@@ -140,6 +142,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sunnyajit/part3Ltcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/sunnyajit/part3Ltcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/sunnyajit/part3Ltcode/tree/master/1002-maximum-width-ramp) |
@@ -226,6 +229,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sunnyajit/part3Ltcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sunnyajit/part3Ltcode/tree/master/0287-find-the-duplicate-number) |
@@ -473,6 +477,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sunnyajit/part3Ltcode/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/sunnyajit/part3Ltcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sunnyajit/part3Ltcode/tree/master/0241-different-ways-to-add-parentheses) |
