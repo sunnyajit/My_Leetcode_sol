@@ -123,6 +123,7 @@
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnyajit/part3Ltcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -250,6 +251,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
 | ------- |
@@ -401,6 +403,7 @@
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
 | ------- |
