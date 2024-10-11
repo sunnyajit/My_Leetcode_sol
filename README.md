@@ -117,6 +117,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnyajit/part3Ltcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -615,6 +616,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sunnyajit/part3Ltcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnyajit/part3Ltcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Brainteaser
 |  |
