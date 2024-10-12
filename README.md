@@ -110,6 +110,7 @@
 | [2411-spiral-matrix-iv](https://github.com/sunnyajit/part3Ltcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sunnyajit/part3Ltcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/sunnyajit/part3Ltcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -254,6 +255,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -279,6 +281,7 @@
 | [1923-sentence-similarity-iii](https://github.com/sunnyajit/part3Ltcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sunnyajit/part3Ltcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/sunnyajit/part3Ltcode/tree/master/2128-reverse-prefix-of-word) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sunnyajit/part3Ltcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -405,6 +408,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/sunnyajit/part3Ltcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sunnyajit/part3Ltcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -432,6 +436,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/sunnyajit/part3Ltcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -763,6 +768,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sunnyajit/part3Ltcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sunnyajit/part3Ltcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
