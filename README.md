@@ -118,6 +118,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sunnyajit/part3Ltcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sunnyajit/part3Ltcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sunnyajit/part3Ltcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sunnyajit/part3Ltcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/sunnyajit/part3Ltcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/2755-extra-characters-in-a-string) |
@@ -259,6 +260,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sunnyajit/part3Ltcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sunnyajit/part3Ltcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -775,6 +777,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sunnyajit/part3Ltcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sunnyajit/part3Ltcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sunnyajit/part3Ltcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
