@@ -244,6 +244,7 @@
 | [0502-ipo](https://github.com/sunnyajit/part3Ltcode/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/sunnyajit/part3Ltcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sunnyajit/part3Ltcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/sunnyajit/part3Ltcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/sunnyajit/part3Ltcode/tree/master/0678-valid-parenthesis-string) |
 | [0853-most-profit-assigning-work](https://github.com/sunnyajit/part3Ltcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/sunnyajit/part3Ltcode/tree/master/0876-hand-of-straights) |
@@ -626,6 +627,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/sunnyajit/part3Ltcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/sunnyajit/part3Ltcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/sunnyajit/part3Ltcode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/sunnyajit/part3Ltcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/sunnyajit/part3Ltcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/1240-stone-game-ii) |
