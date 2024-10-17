@@ -132,6 +132,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Stack
 |  |
 | ------- |
@@ -684,6 +685,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnyajit/part3Ltcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
@@ -912,4 +914,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
