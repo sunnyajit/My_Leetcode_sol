@@ -136,6 +136,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/sunnyajit/part3Ltcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/sunnyajit/part3Ltcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
+| [3533-snake-in-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/3533-snake-in-matrix) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -240,6 +241,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/3379-score-of-a-string) |
+| [3533-snake-in-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/sunnyajit/part3Ltcode/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3567-convert-date-to-binary](https://github.com/sunnyajit/part3Ltcode/tree/master/3567-convert-date-to-binary) |
@@ -331,6 +333,7 @@
 | [2645-pass-the-pillow](https://github.com/sunnyajit/part3Ltcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
+| [3533-snake-in-matrix](https://github.com/sunnyajit/part3Ltcode/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/sunnyajit/part3Ltcode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
