@@ -133,6 +133,7 @@
 | [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/sunnyajit/part3Ltcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/sunnyajit/part3Ltcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
@@ -405,6 +406,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sunnyajit/part3Ltcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Sorting
