@@ -238,6 +238,7 @@
 | [3379-score-of-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/3379-score-of-a-string) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -380,6 +381,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -395,6 +397,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sunnyajit/part3Ltcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Sorting
 |  |
 | ------- |
