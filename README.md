@@ -316,6 +316,7 @@
 | [2645-pass-the-pillow](https://github.com/sunnyajit/part3Ltcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/sunnyajit/part3Ltcode/tree/master/2846-robot-collisions) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -641,6 +642,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -649,6 +651,7 @@
 | [0273-integer-to-english-words](https://github.com/sunnyajit/part3Ltcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sunnyajit/part3Ltcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -678,6 +681,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnyajit/part3Ltcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
