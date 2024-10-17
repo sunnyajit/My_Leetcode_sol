@@ -131,6 +131,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/sunnyajit/part3Ltcode/tree/master/3541-report-spam-message) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -273,6 +274,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sunnyajit/part3Ltcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/sunnyajit/part3Ltcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -530,6 +532,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sunnyajit/part3Ltcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sunnyajit/part3Ltcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/sunnyajit/part3Ltcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Segment Tree
 |  |
 | ------- |
@@ -649,6 +652,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sunnyajit/part3Ltcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -799,6 +803,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sunnyajit/part3Ltcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sunnyajit/part3Ltcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/sunnyajit/part3Ltcode/tree/master/2803-modify-graph-edge-weights) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sunnyajit/part3Ltcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Shortest Path
 |  |
 | ------- |
