@@ -233,6 +233,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/sunnyajit/part3Ltcode/tree/master/3379-score-of-a-string) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Greedy
 |  |
 | ------- |
@@ -372,6 +373,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sunnyajit/part3Ltcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sunnyajit/part3Ltcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sunnyajit/part3Ltcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnyajit/part3Ltcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sunnyajit/part3Ltcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Sorting
 |  |
 | ------- |
