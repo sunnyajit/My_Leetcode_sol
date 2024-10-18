@@ -105,6 +105,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sunnyajit/part3Ltcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/sunnyajit/part3Ltcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sunnyajit/part3Ltcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sunnyajit/part3Ltcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sunnyajit/part3Ltcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sunnyajit/part3Ltcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -709,6 +710,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/sunnyajit/part3Ltcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/sunnyajit/part3Ltcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sunnyajit/part3Ltcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sunnyajit/part3Ltcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sunnyajit/part3Ltcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -876,6 +878,7 @@
 | [1331-path-with-maximum-gold](https://github.com/sunnyajit/part3Ltcode/tree/master/1331-path-with-maximum-gold) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/sunnyajit/part3Ltcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Binary Search Tree
 |  |
@@ -944,5 +947,6 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sunnyajit/part3Ltcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sunnyajit/part3Ltcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/sunnyajit/part3Ltcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
