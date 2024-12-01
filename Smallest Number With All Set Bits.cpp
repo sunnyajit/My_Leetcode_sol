@@ -1,14 +1,9 @@
 class Solution {
-public: // code written by sunny
-    bool checkIfExist(vector<int>& arr) {
-        unordered_set<int> seen;
-        for (int num : arr) {
-            if (seen.count(2 * num) || (num % 2 == 0 && seen.count(num / 2))) {
-                return true;
-            } 
-            seen.insert(num);
+public: // code  written by sunny
+    int smallestNumber(int n) {
+        while ((n & (n + 1)) != 0) {
+            n++;
         }
-        return false;  
+        return n;
     }
 };
- 
